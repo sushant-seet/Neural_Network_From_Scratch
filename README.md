@@ -4,4 +4,7 @@ This is a reposatory for implementation of different types of optimizers (SGD, R
 - Multi-class Single-label Classification and 
 - Multi-class Multi-label Classification
 
+Note: This is an assignment of Deep Learning Course taught by Prof. C. Chandra Sekhar offered in Dept. of Computer Science, IIT Madras.
+
+
 ![read_me](https://user-images.githubusercontent.com/17803217/83966163-368e8900-a8d6-11ea-9ea5-e17362838986.jpg)

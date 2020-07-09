@@ -1,0 +1,12 @@
+Group-1		:	Street,Forest,Insidecity,Highway,Opencountry
+Group-2		:	Street,Coast,Mountain,Highway,Insidecity
+Group-3		:	Street,Coast,Forest,Tallbuilding,Opencountry
+Group-4		:	Forest,Insidecity,Highway,Mountain,Tallbuilding
+Group-5		:	Coast,Street,Mountain,Forest,Insidecity
+Group-6		:	Opencountry,Coast,Tallbuilding,Street,Mountain
+Group-7		:	Coast,Street,Forest,Highway,Tallbuilding
+Group-8		:	Tallbuilding,Highway,Street,Mountain,Coast
+Group-9		:	Tallbuilding,Mountain,Street,Forest,Opencountry
+Group-10	:	Insidecity,Coast,Tallbuilding,Street,Highway
+Group-11	:	Insidecity,Highway,Mountain,Coast,Forest
+Group-12	:	Street,Mountain,Forest,Tallbuilding,Coast
